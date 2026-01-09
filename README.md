@@ -1,2 +1,7 @@
-# McDonalds-Sales-EDA
-Data Analytics Task 1 - Menu Analysis
+File 1: requirements.txt
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+jupyter
